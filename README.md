@@ -9,22 +9,22 @@ In the Menu u have the following options:
 *This Updates or Rebuild mlrpt on your System. It also Downloads config files from my server and Verifying that it is written. Then Restarts Autowx2
 
 -Verify only
-*Only verifies if Configs exist
+*Only verifies if Configs exist*
 
 -Restart AutoWX2
-*Restarts AutoWX2
+*Restarts AutoWX2*
 
 -Update Configs and Verify
-*Downloads Config from the server and Verify if it is written
+*Downloads Config from the server and Verify if it is written*
 
 -cleanup RAW files
-*Deletes all .raw Files 
+*Deletes all .raw Files*
 
 -Update Kepler Data
-*Updates the Kepler files needed for Predicting Satalite Passes
+*Updates the Kepler files needed for Predicting Satalite Passes*
 
 -Generate new Passtable
-*This generates a new Passtable in AutoWX2
+*This generates a new Passtable in AutoWX2*
 
 -Generate updated Staticpage
-*This Updates the Static page
+*This Updates the Static page*
